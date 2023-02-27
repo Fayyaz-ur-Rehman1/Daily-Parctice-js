@@ -43,5 +43,5 @@ function dividesEvenly(a, b) {
     const result = a / b;
     return result === parseInt(result);
 }
-console.log(dividesEvenly(98, 7 ))
-console.log(dividesEvenly(85,4 ))
+// console.log(dividesEvenly(98, 7 ))
+// console.log(dividesEvenly(85,4 ))

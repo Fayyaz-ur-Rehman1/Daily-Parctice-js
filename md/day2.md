@@ -11,7 +11,13 @@ String Concat in one line First method => return ( 'something '+str);
  console.log( giveMeSomething("something") => "something something"
 
 function triArea(base,height){
-   return (base * height) / 2; Tringle area formula is height multiply base divided by 2  => height * Base /2 this is triangle formula 
+   return (base * height) / 2; Tringle area formula is height multiply base divided by 2  => height * Base /2 this is triangle f
+   
+   
+   
+   
+   
+   ormula 
 }
 
 // `Area of a Triangle`
