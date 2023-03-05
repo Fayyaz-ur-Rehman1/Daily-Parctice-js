@@ -51,6 +51,6 @@ function calculteExponent(base,exponent){
     return (base ** exponent)
 }
 
-console.log(calculteExponent(5, 5))
-console.log(calculteExponent(10, 10))
-console.log(calculteExponent(3, 3))
+// console.log(calculteExponent(5, 5))
+// console.log(calculteExponent(10, 10))
+// console.log(calculteExponent(3, 3))
